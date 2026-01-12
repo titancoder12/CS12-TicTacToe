@@ -3,6 +3,8 @@
  * Author: Christopher Lin
  * Date: 2026-01-04
  *
+ * GitHub: https://github.com/titancoder12/CS12-TicTacToe
+ *
  * Description:
  * Using functions declared in 'tictactoe_helper.h', 
  * determine if human player is playing as 'X' or 'O', then run the game loop

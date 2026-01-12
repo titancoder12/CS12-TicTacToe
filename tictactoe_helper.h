@@ -3,6 +3,8 @@
  * Author: Christopher Lin
  * Date: 2026-01-04
  *
+ * GitHub: https://github.com/titancoder12/CS12-TicTacToe
+ *
  * Description:
  * These are the helper functions for the tictactoe game.
  * Intended for the main function to run the game using functions declared in this file.
