@@ -1,0 +1,40 @@
+CS12-TicTacToe.code-workspace
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Build directories
+build/
+bin/
+out/
+dist/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
